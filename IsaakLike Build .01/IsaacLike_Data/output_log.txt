@@ -1,0 +1,53 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti (ID=0x11c6)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Default GameObject Tag: Finish already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  4.897 seconds
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\willard\Documents\Game Assets\IsaakLike Build .01\IsaacLike_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Ground (3)') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ground (2)') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ground') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ground (5)') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Ground (1)') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 0.664696 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27c -> priority: 1 
+  Thread -> id: 1414 -> priority: 1 
